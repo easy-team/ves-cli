@@ -1,7 +1,7 @@
 {
   "name": "ves-cli",
-  "version": "0.0.1",
-  "description": "ves node framework cli",
+  "version": "0.1.0",
+  "description": "ves framework cli",
   "bin": {
     "ves": "bin/cli.js"
   },
@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "@types/node": "^10.12.0",
+    "easywebpack-cli": "next",
     "easywebpack-vue": "next",
     "egg-bin": "^4.9.0",
     "egg-scripts": "^2.10.0",
@@ -40,7 +41,7 @@
     "nyc": "^11.1.0"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=8.0.0"
   },
   "scripts": {
     "lint": "eslint .",
@@ -69,8 +70,5 @@
   },
   "homepage": "https://github.com/ves-team/ves-cli#readme",
   "author": "hubcarl@126.com",
-  "license": "MIT",
-  "webpack": {
-    "loaders": {}
-  }
+  "license": "MIT"
 }

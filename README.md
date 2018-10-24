@@ -20,10 +20,59 @@
 [download-image]: https://img.shields.io/npm/dm/ves-cli.svg?style=flat-square
 [download-url]: https://npmjs.org/package/ves-cli
 
-A Powerful Cross-platform Ves Node Framework CLI Tool
+A Powerful Cross-platform [Ves](https://github.com/easy-team/ves) Node Framework CLI Tool.
 
-## Featues
+## Installation
 
+```bash
+$ npm install -g ves-cli
+```
+
+Node.js >= 8.0.0 required.
+
+## Features
+
+- ✔︎ Ves Application Development, such as `ves dev`, `ves start`, `ves debug`, `ves test`
+- ✔︎ Build with Webpack + TypeScript, such as `ves build`, `ves build --speed`, `ves build --size`
+- ✔︎ Common Development Commands, such as `ves open`, `ves kill`, `ves server`
+
+## QuickStart
+
+- Init Application
+
+```bash
+$ ves init
+```
+
+- Development mode startup Application
+
+```bash
+$ ves dev
+```
+
+- Publish mode startup Application
+
+```bash
+$ ves build
+$ ves start
+```
+
+- Webpack build size analysis
+
+```bash
+$ ves build --size
+```
+
+
+## Examples
+
+See [ves-amdin](https://github.com/easy-team/ves-admin)
+
+## Links
+
+- https://github.com/easy-team/ves
+- https://github.com/easy-team/easywebpack-cli
+- https://www.yuque.com/easy-team/ves
 
 ## License
 
