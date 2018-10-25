@@ -1,3 +1,13 @@
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/ves-team/ves-cli/compare/0.1.0...0.1.1) (2018-10-25)
+
+
+### Bug Fixes
+
+* sensitive case ([73cec66](https://github.com/ves-team/ves-cli/commit/73cec66))
+
+
+
 <a name="0.1.0"></a>
 # 0.1.0 (2018-10-25)
 
