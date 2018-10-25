@@ -63,6 +63,11 @@ $ ves start
 $ ves build --size
 ```
 
+- TypeScript build
+
+```bash
+$ ves tsc
+```
 
 ## Examples
 
