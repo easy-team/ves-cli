@@ -2,7 +2,7 @@
 
 'use strict';
 
-const Command = require('../lib/Command');
+const Command = require('../lib/command');
 new Command().run();
 
 
