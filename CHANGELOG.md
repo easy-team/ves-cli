@@ -1,3 +1,13 @@
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/ves-team/ves-cli/compare/0.1.1...0.1.2) (2018-10-30)
+
+
+### Bug Fixes
+
+* webpack default config ([bf5ce0d](https://github.com/ves-team/ves-cli/commit/bf5ce0d))
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/ves-team/ves-cli/compare/0.1.0...0.1.1) (2018-10-25)
 
