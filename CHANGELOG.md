@@ -1,3 +1,14 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/ves-team/ves-cli/compare/0.1.2...1.0.0) (2019-03-11)
+
+
+### Features
+
+* hotcss and cssExtract default ([1b1699d](https://github.com/ves-team/ves-cli/commit/1b1699d))
+* public to app/public ([a0b08ac](https://github.com/ves-team/ves-cli/commit/a0b08ac))
+
+
+
 <a name="0.1.2"></a>
 ## [0.1.2](https://github.com/ves-team/ves-cli/compare/0.1.1...0.1.2) (2018-10-30)
 
