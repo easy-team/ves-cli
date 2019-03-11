@@ -1,6 +1,6 @@
 {
   "name": "ves-cli",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "ves framework cli",
   "bin": {
     "ves": "bin/cli.js"
