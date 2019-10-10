@@ -1,3 +1,18 @@
+<a name="2.0.0-beta.2"></a>
+# [2.0.0-beta.2](https://github.com/ves-team/ves-cli/compare/1.0.0...2.0.0-beta.2) (2019-10-10)
+
+
+### Bug Fixes
+
+* not typescript support ([20e2dd7](https://github.com/ves-team/ves-cli/commit/20e2dd7))
+
+
+### Features
+
+* perfermance webpack config and use easy-team mode ([8234297](https://github.com/ves-team/ves-cli/commit/8234297))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/ves-team/ves-cli/compare/0.1.2...1.0.0) (2019-03-11)
 
