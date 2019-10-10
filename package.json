@@ -1,6 +1,6 @@
 {
   "name": "ves-cli",
-  "version": "2.0.0",
+  "version": "2.0.0-beta.2",
   "description": "ves framework cli",
   "bin": {
     "ves": "bin/cli.js"
@@ -16,7 +16,7 @@
     "changelog"
   ],
   "dependencies": {
-    "@easy-team/easywebpack-cli": "^4.0.0",
+    "@easy-team/easywebpack-cli": "^4.1.2",
     "@easy-team/easywebpack-vue": "^4.0.0",
     "@types/node": "^10.12.0",
     "egg-bin": "^4.9.0",
