@@ -1,6 +1,6 @@
 {
   "name": "ves-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ves framework cli",
   "bin": {
     "ves": "bin/cli.js"
@@ -16,13 +16,20 @@
     "changelog"
   ],
   "dependencies": {
+    "@easy-team/easywebpack-cli": "^4.0.0",
+    "@easy-team/easywebpack-vue": "^4.0.0",
     "@types/node": "^10.12.0",
-    "easywebpack-cli": "^4.1.0",
-    "easywebpack-vue": "^4.2.1",
     "egg-bin": "^4.9.0",
     "egg-scripts": "^2.10.0",
     "egg-ts-helper": "^1.13.0",
+    "imagemin-webpack-plugin": "^2.4.2",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.5.3",
     "node-tool-utils": "^1.1.1",
+    "sass-loader": "^6.0.6",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.0",
     "ts-loader": "^5.3.0",
     "ts-node": "^7.0.1",
     "tslint": "^5.9.1",
