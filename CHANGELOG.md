@@ -1,3 +1,13 @@
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/ves-team/ves-cli/compare/2.0.0...2.0.1) (2019-10-11)
+
+
+### Bug Fixes
+
+* webpack plugin default copy plugin ([149fa1a](https://github.com/ves-team/ves-cli/commit/149fa1a))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/ves-team/ves-cli/compare/2.0.0-beta.2...2.0.0) (2019-10-11)
 
