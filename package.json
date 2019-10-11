@@ -1,6 +1,6 @@
 {
   "name": "ves-cli",
-  "version": "2.0.0-beta.2",
+  "version": "2.0.0",
   "description": "ves framework cli",
   "bin": {
     "ves": "bin/cli.js"
@@ -35,6 +35,8 @@
     "tslint": "^5.9.1",
     "tslint-loader": "^3.5.3",
     "typescript": "^3.0.0",
+    "vue-property-decorator": "^7.2.0",
+    "vuex-class": "^0.3.1",
     "webpack-merge": "^4.1.4"
   },
   "devDependencies": {
