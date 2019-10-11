@@ -1,3 +1,13 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/ves-team/ves-cli/compare/2.0.0-beta.2...2.0.0) (2019-10-11)
+
+
+### Features
+
+* tsc compile by ves tsc ([e719e9a](https://github.com/ves-team/ves-cli/commit/e719e9a))
+
+
+
 <a name="2.0.0-beta.2"></a>
 # [2.0.0-beta.2](https://github.com/ves-team/ves-cli/compare/1.0.0...2.0.0-beta.2) (2019-10-10)
 
