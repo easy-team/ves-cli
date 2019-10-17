@@ -1,3 +1,13 @@
+<a name="2.0.2"></a>
+## [2.0.2](https://github.com/ves-team/ves-cli/compare/2.0.1...2.0.2) (2019-10-17)
+
+
+### Bug Fixes
+
+* package.json no egg.framework config ([fba1a3b](https://github.com/ves-team/ves-cli/commit/fba1a3b))
+
+
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://github.com/ves-team/ves-cli/compare/2.0.0...2.0.1) (2019-10-11)
 
